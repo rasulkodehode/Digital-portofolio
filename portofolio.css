@@ -1,0 +1,26 @@
+h1
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: darkorange;
+}
+
+h2
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: darkorange;
+}
+
+body
+{
+    
+    margin: 2%;
+}
+
+tr, table, th
+{
+    text-align: center;
+    border-spacing: 20px;
+    border: 2px solid white;
+    border-collapse:inherit;
+    font-size: 20px;
+}
